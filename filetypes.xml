@@ -10,6 +10,7 @@
       <mapping pattern="standards-git.html" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
+      <mapping pattern=".sample-env" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping pattern=".cfignore" type="YAML" />
