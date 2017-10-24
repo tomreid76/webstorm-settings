@@ -15,6 +15,7 @@
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping pattern=".cfignore" type="YAML" />
       <mapping pattern="Staticfile" type="YAML" />
+      <mapping pattern="Procfile" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
