@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Browser Connection" />
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
