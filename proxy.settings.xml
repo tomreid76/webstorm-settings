@@ -1,7 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="us300b-cips2.piap.philips.net" />
-    <option name="PROXY_PORT" value="8080" />
-    <option name="PAC_URL" value="http://amec.pixs.philips.com:8081/proxy.pac" />
-  </component>
-</application>
