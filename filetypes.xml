@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping pattern=".cfignore" type="CloudFoundry file" />
       <mapping pattern=".npmrc" type="JSON" />
       <mapping pattern=".sample-env" type="PLAIN_TEXT" />
       <mapping pattern="placeholder" type="PLAIN_TEXT" />
@@ -11,11 +10,9 @@
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
-      <mapping pattern=".cfignore" type="YAML" />
       <mapping pattern="Procfile" type="YAML" />
       <mapping pattern="Staticfile" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
