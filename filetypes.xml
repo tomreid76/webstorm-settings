@@ -13,6 +13,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="icc" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="mbtree" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="YAML" />
       <mapping pattern="Staticfile" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
