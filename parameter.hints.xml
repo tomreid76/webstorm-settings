@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="ECMAScript 6">
+        <added pattern="JSON.stringify(value,replacer,space)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
