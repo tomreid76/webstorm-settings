@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="github.com" id="99c39a02-b6d0-4f3f-84f4-a4079441ee52" port="22" nameFormat="DESCRIPTIVE" username="git" />
+    </configs>
+  </component>
+</application>
