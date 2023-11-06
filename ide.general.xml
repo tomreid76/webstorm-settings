@@ -8,7 +8,7 @@
     <entry key="ide.tooltip.show.with.actions" value="true" />
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
     <entry key="idea.plugins.compatible.build" value="" />
   </component>
 </application>
