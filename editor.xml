@@ -1,6 +1,19 @@
 <application>
   <component name="CodeVisionSettings">
     <option name="defaultPosition" value="Right" />
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.type.hints" value="false" />
+      </map>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
