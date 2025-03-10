@@ -1,8 +1,5 @@
 <application>
-  <component name="LafManager">
-    <lafs-to-previous-schemes>
-      <laf-to-scheme laf="Darcula" scheme="Monokai Mod 1" />
-      <laf-to-scheme laf="Light" scheme="wenming" />
-    </lafs-to-previous-schemes>
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
   </component>
 </application>
